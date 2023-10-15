@@ -10,3 +10,7 @@
 ```
 
 - [Google Project Setup with the new UI](https://www.udemy.com/course/node-with-react-fullstack-web-development/learn/lecture/19049632#overview)
+
+```sh
+> npm install --save nodemon
+```
