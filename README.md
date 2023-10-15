@@ -14,3 +14,5 @@
 ```sh
 > npm install --save nodemon
 ```
+
+- [MongoDB Atlas Setup and Configuration](https://www.udemy.com/course/node-with-react-fullstack-web-development/learn/lecture/32363794#overview)
